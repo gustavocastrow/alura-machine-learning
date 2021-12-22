@@ -9,6 +9,12 @@
 
 *Módulo 2:Decomposição e autocorrelação*
 
-- [ ] 2.1 Decompondo vendas.
-- [ ] 2.1 Observação e tendência.
+- [X] 2.1 Decompondo vendas.
+- [X] 2.1 Observação e tendência.
 - [ ] 2.3 Autocorrelação.
+
+*Módulo 3:Importância da decomposição e sazionalidade*
+
+- [X] 3.1 Analisando assinantes.
+- [X] 3.2 Sazonalidade e chocolate.
+- [X] 3.3 Investigando Sazonalidade.

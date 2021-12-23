@@ -1,6 +1,5 @@
 # Data Science: Introdução a análise de series temporais.
 
-
 *Módulo 1:Tendência das vendas*
 
 - [x] 1.1 Introdução.
@@ -18,3 +17,15 @@
 - [X] 3.1 Analisando assinantes.
 - [X] 3.2 Sazonalidade e chocolate.
 - [X] 3.3 Investigando Sazonalidade.
+
+*Módulo 4:Normalização e Statsmodels*
+
+- [X] 4.1 Autocorrelação de vendas.
+- [X] 4.2 Normalização.
+- [X] 4.3 Statsmodel.
+
+*Módulo 5:Ruído e médias móvel*
+
+- [X] 5.1 Ruído de uma time series.
+- [X] 5.2 Média móvel.
+- [X] 5.3 Conclusão.

@@ -19,4 +19,13 @@
 - [x] 2.5 Resumo.
 - [x] 2.6 Revisando o código.
 
+*Módulo 3:Classificação de variáveis categóricas*
 
+- [x] 3.1 Entendendo o problema de busca.
+- [x] 3.2 Variável categórica.
+- [x] 3.3 Classificando variáveis categóricas.
+- [x] 3.4 Exportando CSV.
+- [x] 3.5 Lendo CSV e classificando as buscas.
+- [x] 3.6 Traduzindo categorias com pandas.
+- [x] 3.7 Treinando e testando o algoritmo.
+- [x] 3.8 Revisão.

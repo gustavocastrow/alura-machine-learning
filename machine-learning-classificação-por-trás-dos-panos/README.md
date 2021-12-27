@@ -29,3 +29,15 @@
 - [x] 3.6 Traduzindo categorias com pandas.
 - [x] 3.7 Treinando e testando o algoritmo.
 - [x] 3.8 Revisão.
+
+*Módulo 4:O problema do sucesso e o algoritmo burro.*
+
+- [x] 4.1 Como comparar o algoritmo.
+- [x] 4.2 Algoritmo burro.
+- [x] 4.3 Escolhendo o algoritmo base.
+- [x] 4.4 Exportando CSV.
+- [x] 4.5 Implementando o algoritmo base.
+- [x] 4.6 Calculando a quantidade de zero e 1.
+- [x] 4.7 Lidando com valores SIM e NÃO.
+- [x] 4.8 Utilizando os mesmos dados no algoritmo.
+- [x] 4.9 Resumo.

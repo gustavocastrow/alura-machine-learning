@@ -41,3 +41,9 @@
 - [x] 4.7 Lidando com valores SIM e NÃO.
 - [x] 4.8 Utilizando os mesmos dados no algoritmo.
 - [x] 4.9 Resumo.
+
+*Módulo 5:Naive bayers e maxium a posteriori por trás dos panos.*
+
+- [x] 5.1 O algoritmo Multinomial Naive Bayes.
+- [x] 5.2 Probalidade condicional.
+- [x] 5.3 Probalidade condicional de duas variáveis.

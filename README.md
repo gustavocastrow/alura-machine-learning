@@ -10,5 +10,5 @@
 
 *Trilha Data Science:*
 
-- [ ] Data Science: Data Science: Classificação por trás dos panos..
+- [X] Data Science: Data Science: Classificação por trás dos panos..
 

@@ -47,3 +47,11 @@
 - [x] 5.1 O algoritmo Multinomial Naive Bayes.
 - [x] 5.2 Probalidade condicional.
 - [x] 5.3 Probalidade condicional de duas variáveis.
+
+*Módulo 6:Testando diferentes modelos e validando o vencedor.*
+
+- [x] 6.1 Registrando testes.
+- [x] 6.2 Algoritmo Adaboost.
+- [x] 6.3 Validando o algoritmo com dados do mundo real.
+- [x] 6.4 Verificando o melhor algoritmo.
+- [x] 6.5 Conslusão.

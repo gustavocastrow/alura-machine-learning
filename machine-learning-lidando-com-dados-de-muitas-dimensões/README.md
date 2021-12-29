@@ -12,9 +12,9 @@
 
 *Módulo 2:Avançado e explorando dados*
 
-- [ ] 2.1 Construindo uma visualização.
-- [ ] 2.2 Melhorando a visualização.
-- [ ] 2.3 Trabalhando com valores constantes.
+- [X] 2.1 Construindo uma visualização.
+- [X] 2.2 Melhorando a visualização.
+- [X] 2.3 Trabalhando com valores constantes.
 
 *Módulo 3:Dados Correlacionados*
 

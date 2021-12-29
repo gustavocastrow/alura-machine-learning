@@ -1,12 +1,17 @@
-# Alura: Machine Learning & Data Science
+# Alura: Formação Machine Learning
 
-*Trilha Machine Learning:*
 
-- [x] Machine Learning: Introdução a Classificação com SKLearn.
+<h3>Repositório da formação de Machine Learning da Alura </h3>
+
+<h2>Conteúdo</h2>
 
 *Trilha Machine Learning:*
 
 - [ ] Machine Learning: Lidando com dados de muitas dimensões.
+
+*Trilha Machine Learning:*
+
+- [x] Machine Learning: Introdução a Classificação com SKLearn.
 
 *Trilha Data Science:*
 
@@ -15,6 +20,4 @@
 *Trilha Data Science:*
 
 - [X] Data Science: Data Science: Classificação por trás dos panos.
-
-
 

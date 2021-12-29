@@ -18,11 +18,8 @@
 
 *Módulo 3:Dados Correlacionados*
 
-- [ ] 3.1 .
-- [ ] 3.2 .
-- [ ] 3.3 .
-- [ ] 3.4 .
-- [ ] 3.5 .
+- [X] 3.1 Matriz de Correlação.
+- [X] 3.2 Correlação e causalidade.
 
 *Módulo 4:Automatizando a seleção.*
 

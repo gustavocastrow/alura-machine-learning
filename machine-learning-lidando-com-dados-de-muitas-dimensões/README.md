@@ -23,16 +23,14 @@
 
 *Módulo 4:Automatizando a seleção.*
 
-- [ ] 4.1 .
-- [ ] 4.2 .
-- [ ] 4.3 .
-- [ ] 4.4 .
-- [ ] 4.5 .
+- [X] 4.1 SelectKbest.
+- [X] 4.2 Matriz de Confusão.
+- [X] 4.3 Seleção com RFE.
 
 *Módulo 5:Visualizando os dados no plano.*
 
-- [ ] 5.1 .
-- [ ] 5.2 .
-- [ ] 5.4 .
-- [ ] 5.4 .
-- [ ] 5.5 .
+- [ ] 5.1 Seleção com RFECV.
+- [ ] 5.2 Visualizando dados no plano.
+- [ ] 5.3 PCA e TSNE.
+- [ ] 5.4 Conclusão.
+

@@ -29,8 +29,8 @@
 
 *Módulo 5:Visualizando os dados no plano.*
 
-- [ ] 5.1 Seleção com RFECV.
-- [ ] 5.2 Visualizando dados no plano.
-- [ ] 5.3 PCA e TSNE.
-- [ ] 5.4 Conclusão.
+- [X] 5.1 Seleção com RFECV.
+- [X] 5.2 Visualizando dados no plano.
+- [X] 5.3 PCA e TSNE.
+- [X] 5.4 Conclusão.
 

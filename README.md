@@ -5,9 +5,13 @@
 
 <h2>Conteúdo</h2>
 
+*Trilha Clustering Básico:*
+
+- [X] Clustering Básico: K-Means, DBSCAN, Mean Shift..
+
 *Trilha Machine Learning:*
 
-- [ ] Machine Learning: Lidando com dados de muitas dimensões.
+- [X] Machine Learning: Lidando com dados de muitas dimensões.
 
 *Trilha Machine Learning:*
 
